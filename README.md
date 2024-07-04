@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Natural Language Understanding:** Interprets user commands accurately using advanced natural language processing (NLP) algorithms.
+- **Natural Language Understanding:** Interprets user commands accurately using advanced natural language processing (NLP) algorithms,
 - **Task Automation:** Automates repetitive tasks such as setting reminders, sending emails, managing calendars, and controlling smart home devices.
 - **Information Retrieval:** Provides real-time information on weather, news, sports scores, and more by accessing internet resources.
 - **Personalization:** Learns user preferences and adapts responses and recommendations accordingly for a tailored experience.
